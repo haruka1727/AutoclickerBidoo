@@ -19,3 +19,5 @@ Per leggere il README da VSCode Premi :
 * Installiamo selenium: 
 
 ``` pip install selenium ```
+
+* Crea file: credenziali.json
