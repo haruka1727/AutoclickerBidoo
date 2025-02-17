@@ -1,0 +1,21 @@
+# Autoclicker Youtube
+
+Per leggere il README da VSCode Premi :
+* Ctrl + Shift + V (Windows/Linux) 
+* Cmd + Shift + V (Mac)
+## Installazioni
+
+* Creiamo il virtual env:
+
+``` python3 -m venv venv ```
+
+* Attivare env: 
+
+```source nome_env/bin/activate``` macOS/linux
+
+```nome_env\Scripts\activate``` Su Windows (CMD)
+
+
+* Installiamo selenium: 
+
+``` pip install selenium ```
